@@ -2,14 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://kyokyostory.github.io.git/</loc>
+        <loc>https://kyokyostory.github.io/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
 
     <url>
-        <loc>https://kyokyostory.github.io.git/2025/12/07/travel/</loc>
+        <loc>https://kyokyostory.github.io/2025/12/07/travel/</loc>
         <lastmod>2025-12-07T14:06:09.064Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -17,7 +17,7 @@
     </url>
 
     <url>
-        <loc>https://kyokyostory.github.io.git/2025/12/07/restaurant/</loc>
+        <loc>https://kyokyostory.github.io/2025/12/07/restaurant/</loc>
         <lastmod>2025-12-07T13:37:50.145Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -25,7 +25,7 @@
     </url>
 
     <url>
-        <loc>https://kyokyostory.github.io.git/2025/12/07/cafe-review/</loc>
+        <loc>https://kyokyostory.github.io/2025/12/07/cafe-review/</loc>
         <lastmod>2025-12-07T12:06:01.670Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
