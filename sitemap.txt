@@ -1,3 +1,4 @@
+https://kyokyostory.github.io/restaurant/restaurant-8/
 https://kyokyostory.github.io/restaurant/restaurant-7/
 https://kyokyostory.github.io/travel/travel-2/
 https://kyokyostory.github.io/review/review/
@@ -84,6 +85,11 @@ https://kyokyostory.github.io/tags/%EC%86%A1%EC%A0%95%EB%8F%99%EB%A7%9B%EC%A7%91
 https://kyokyostory.github.io/tags/%EC%99%80%EA%B7%9C%EA%BD%83%EA%B0%88%EB%B9%84%EC%82%B4/
 https://kyokyostory.github.io/tags/%EA%B3%B1%EC%B0%BD%EB%8D%B0%EC%9D%B4%ED%8A%B8/
 https://kyokyostory.github.io/tags/%EA%B2%BD%EA%B8%B0%EA%B4%91%EC%A3%BC%EA%B3%B1%EC%B0%BD/
+https://kyokyostory.github.io/tags/%EA%B2%BD%EC%95%88%EB%8F%99/
+https://kyokyostory.github.io/tags/%EC%88%A0%EC%A7%91%EC%B6%94%EC%B2%9C/
+https://kyokyostory.github.io/tags/%ED%8C%8C%EC%8A%A4%ED%83%80%EB%A7%9B%EC%A7%91/
+https://kyokyostory.github.io/tags/%EC%95%88%EC%A3%BC%EB%A7%9B%EC%A7%91/
+https://kyokyostory.github.io/tags/%EC%BF%84%EC%BF%84%EB%A6%AC%EB%B7%B0/
 https://kyokyostory.github.io/tags/%EC%B9%B4%ED%8E%98%EC%B6%94%EC%B2%9C/
 https://kyokyostory.github.io/tags/%EC%A3%BC%EB%A7%90%EB%82%98%EB%93%A4%EC%9D%B4/
 https://kyokyostory.github.io/tags/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD/
