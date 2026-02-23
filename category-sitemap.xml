@@ -9,6 +9,13 @@
 
 
     <url>
+        <loc>https://kyokyostory.graffiti-cave.com/categories/review/</loc>
+        <lastmod>2026-02-23T13:38:49.414Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://kyokyostory.graffiti-cave.com/categories/info/</loc>
         <lastmod>2026-02-22T01:59:43.611Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -25,13 +32,6 @@
     <url>
         <loc>https://kyokyostory.graffiti-cave.com/categories/restaurant/</loc>
         <lastmod>2026-01-25T13:52:12.762Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kyokyostory.graffiti-cave.com/categories/review/</loc>
-        <lastmod>2026-01-04T00:48:39.438Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
